@@ -1,0 +1,12 @@
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.AdditionalForms.AboutForm.AboutForm.resources
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.AdditionalForms.HelpForm.HelpForm.resources
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.ExampleForm.resources
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\izana\source\repos\Example\Example\bin\Debug\Example.exe.config
+C:\Users\izana\source\repos\Example\Example\bin\Debug\Example.exe
+C:\Users\izana\source\repos\Example\Example\bin\Debug\Example.pdb
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.exe
+C:\Users\izana\source\repos\Example\Example\obj\Debug\Example.pdb
